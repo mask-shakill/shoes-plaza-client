@@ -61,7 +61,7 @@ const Header = () => {
         </div>
       </section>
 
-      <section className="pl-64 bg-blue-600 py-2">
+      <section className="pl-64 bg-blue-700 py-2">
         <ul className="flex gap-x-10 text-white">
           <Link className="hover:text-yellow-500" href={"/"}>
             Home
