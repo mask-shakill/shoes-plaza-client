@@ -1,13 +1,11 @@
 "use client";
 import React from "react";
-import ImageSlider from "../SliderComponent ";
+import BannerSlider from "../Slider/BannerSlider";
 
 const HeroBanner = () => {
   return (
     <div>
-      {/* <SliderWithImage />
-       */}
-      <ImageSlider />
+      <BannerSlider />
     </div>
   );
 };
